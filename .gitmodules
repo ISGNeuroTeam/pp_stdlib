@@ -1,33 +1,33 @@
 [submodule "commands/pp_cmd_fields"]
 	path = commands/pp_cmd_fields
-	url = git@github.com:ISGNeuroTeam/pp_cmd_fields.git
+	url = ../pp_cmd_fields.git
 [submodule "commands/pp_cmd_head"]
 	path = commands/pp_cmd_head
-	url = git@github.com:ISGNeuroTeam/pp_cmd_head.git
+	url = ../pp_cmd_head.git
 [submodule "commands/pp_cmd_orderby"]
 	path = commands/pp_cmd_orderby
-	url = git@github.com:ISGNeuroTeam/pp_cmd_orderby.git
+	url = ../pp_cmd_orderby.git
 [submodule "commands/pp_cmd_rename"]
 	path = commands/pp_cmd_rename
-	url = git@github.com:ISGNeuroTeam/pp_cmd_rename.git
+	url = ../pp_cmd_rename.git
 [submodule "commands/pp_cmd_str_match"]
 	path = commands/pp_cmd_str_match
-	url = git@github.com:ISGNeuroTeam/pp_cmd_str_match.git
+	url = ../pp_cmd_str_match.git
 [submodule "commands/otl_v1_compatibility_command"]
 	path = commands/otl_v1_compatibility_command
-	url = git@github.com:ISGNeuroTeam/otl_v1_compatibility_command.git
+	url = ../otl_v1_compatibility_command.git
 [submodule "commands/pp_cmd_datalines"]
 	path = commands/pp_cmd_datalines
-	url = https://github.com/ISGNeuroTeam/pp_cmd_datalines.git
+	url = ../pp_cmd_datalines.git
 [submodule "commands/pp_cmd_ensure"]
 	path = commands/pp_cmd_ensure
-	url = https://github.com/ISGNeuroTeam/pp_cmd_ensure.git
+	url = ../pp_cmd_ensure.git
 [submodule "commands/pp_cmd_pddf"]
 	path = commands/pp_cmd_pddf
-	url = https://github.com/ISGNeuroTeam/pp_cmd_pddf.git
+	url = ../pp_cmd_pddf.git
 [submodule "commands/pp_cmd_rand"]
 	path = commands/pp_cmd_rand
-	url = https://github.com/ISGNeuroTeam/pp_cmd_rand.git
+	url = ../pp_cmd_rand.git
 [submodule "commands/pp_cmd_range"]
 	path = commands/pp_cmd_range
-	url = https://github.com/ISGNeuroTeam/pp_cmd_range.git
+	url = ../pp_cmd_range.git
