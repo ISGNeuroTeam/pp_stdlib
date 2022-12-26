@@ -31,3 +31,6 @@
 [submodule "commands/pp_cmd_range"]
 	path = commands/pp_cmd_range
 	url = ../pp_cmd_range.git
+[submodule "commands/pp_cmd_mapcolumns"]
+	path = commands/pp_cmd_mapcolumns
+	url = git@github.com:ISGNeuroTeam/pp_cmd_mapcolumns.git
