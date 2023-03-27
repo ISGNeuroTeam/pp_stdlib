@@ -34,6 +34,6 @@
 [submodule "commands/pp_cmd_mapcolumns"]
 	path = commands/pp_cmd_mapcolumns
 	url = ../pp_cmd_mapcolumns.git
-[submodule "commands/pp_cmd_readFile"]
-	path = commands/pp_cmd_readFile
-	url = ../pp_cmd_readFile.git
+[submodule "commands/pp_cmd_readFile_writeFile"]
+	path = commands/pp_cmd_readFile_writeFile
+	url = ../pp_cmd_readFile_writeFile.git
