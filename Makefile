@@ -1,7 +1,7 @@
 #.SILENT:
 SHELL = /bin/bash
 
-VERSION := "0.2.0"
+VERSION := "0.2.1"
 BRANCH := $(shell git name-rev $$(git rev-parse HEAD) | cut -d\  -f2 | sed -re 's/^(remotes\/)?origin\///' | tr '/' '_')
 
 clean:
