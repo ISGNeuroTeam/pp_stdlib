@@ -31,5 +31,9 @@
    ```ini
    [storages]
    lookups = /opt/otp/lookups
+   external_data = /opt/otp/external_data
    pp_shared = /opt/otp/shared_storage/persistent
+
+   [defaults]
+   default_storage = external_data
    ```
